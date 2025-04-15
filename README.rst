@@ -1,4 +1,4 @@
-OBS Studio <https://obsproject.com>
+ABR Studio <https://cheddy.net/abnormal/abr>
 ===================================
 
 .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master
@@ -13,31 +13,32 @@ OBS Studio <https://obsproject.com>
    :alt: OBS Studio Discord Server
    :target: https://obsproject.com/discord
 
-What is OBS Studio?
+What is ABR Studio?
 -------------------
 
-OBS Studio is software designed for capturing, compositing, encoding,
-recording, and streaming video content, efficiently.
+ABR Studio is a fork of OBS Studio v27 that includes whatever tweaks we feel like. Step #1, getting rid of the annoying ass auto updater. Will update this read me eventually.
 
-It's distributed under the GNU General Public License v2 (or any later
+Like OBS, ABR is distributed under the GNU General Public License v2 (or any later
 version) - see the accompanying COPYING file for more details.
 
 Quick Links
 -----------
 
-- Website: https://obsproject.com
+- OBS Website: https://obsproject.com
+
+- Cheddy Website: https://cheddy.net
 
 - Help/Documentation/Guides: https://github.com/obsproject/obs-studio/wiki
 
-- Forums: https://obsproject.com/forum/
+- OBS Forums: https://obsproject.com/forum/
 
-- Build Instructions: https://github.com/obsproject/obs-studio/wiki/Install-Instructions
+- OBS Build Instructions: https://github.com/obsproject/obs-studio/wiki/Install-Instructions
 
-- Developer/API Documentation: https://obsproject.com/docs
+- OBS Developer/API Documentation: https://obsproject.com/docs
 
-- Donating/backing/sponsoring: https://obsproject.com/contribute
+- OBS Donating/backing/sponsoring: https://obsproject.com/contribute
 
-- Bug Tracker: https://github.com/obsproject/obs-studio/issues
+- OBS Bug Tracker: https://github.com/obsproject/obs-studio/issues
 
 Contributing
 ------------
